@@ -1,0 +1,7 @@
+%h3 Welcome to index of Poll application
+
+- @polls.each do |p|
+  %p
+    %h2= p.name
+    %p= p.description
+    %span.deadline= p.deadline
