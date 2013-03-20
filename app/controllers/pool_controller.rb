@@ -1,2 +1,0 @@
-class PoolController < ApplicationController
-end
