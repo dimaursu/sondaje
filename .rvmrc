@@ -1,1 +1,1 @@
-rvm use 2.0.0@sondaje --create
+rvm use 1.9.3-p362@sondaje --create

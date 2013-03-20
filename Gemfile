@@ -13,6 +13,7 @@ gem 'sqlite3'
 group :assets do
   gem 'sass-rails'
   gem 'coffee-rails'
+  gem 'haml'
 
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
   # gem 'therubyracer', :platforms => :ruby

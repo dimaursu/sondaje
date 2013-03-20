@@ -1,5 +1,8 @@
 Votare::Application.routes.draw do
+<<<<<<< HEAD
   devise_for :users
+=======
+>>>>>>> b682a7339e01268d88b4314dc41c4f7270875461
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
